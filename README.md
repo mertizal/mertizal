@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello, My Name is Mert İzal 👋
 
-<!--
-**mertizal/mertizal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello! I'm Mert İzal, a software developer. I currently work at Geniousoft
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Projects
+
+- [HealthCheckerService](https://github.com/mertizal/HealthChecker)
+- [DbMigrationScript](https://github.com/mertizal/DbMigrationScript)
+
+
+## 📫 Contact
+
+- **Email:** izal.mert@gmail.com
+
+## 💻 Tech Stack:
+
+<img src="https://github.com/github/explore/raw/main/topics/java/java.png" alt="Java Logo" width="60" height="60"> <img src="https://github.com/github/explore/raw/main/topics/spring-boot/spring-boot.png" alt="Spring Boot Logo" width="60" height="60"> <img src="https://github.com/github/explore/raw/main/topics/laravel/laravel.png" alt="Laravel Logo" width="60" height="60">
+
+
+## Thanks
+
+Thank you for checking out this README! If you have any feedback or suggestions, please feel free to contact me.
+
