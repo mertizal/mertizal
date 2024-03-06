@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm Mert İzal, a software developer. I currently work at Geniousoft
+Hello! I'm Mert İzal, a software developer. I currently work at [Geniousoft](https://www.geniousoft.com/).
 
 ## 🔭 Projects
 
