@@ -21,5 +21,5 @@ Hello! I'm Mert İzal, a software developer. I currently work at Geniousoft
 
 ## Thanks
 
-Thank you for checking out this README! If you have any feedback or suggestions, please feel free to contact me.
+Thank you for checking out this README! If you have any feedback or suggestions, please contact me.
 
